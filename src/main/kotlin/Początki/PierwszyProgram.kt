@@ -301,7 +301,7 @@ fun main () {
     var razem2 = "$tekst1$tekst2"
 
     println(razem1)
-    println(razem2)
+    println(razem2) //test
 
 
 
